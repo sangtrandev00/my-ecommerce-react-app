@@ -12,6 +12,7 @@
 
 ## Description:
 
+- Authenticaion module (Google authenticate, email + password authentication)
 - Create Homepage, shop, blog (randoms ), product detail, blog detail (not render by id), some components attached them.
 - Add to cart (simple) at shop.
 
