@@ -19,3 +19,13 @@
 > Made by Nhat Sang Dev
 > 
 > *Follow me:* [https:trannhatsang.com](https://trannhatsang.com)
+
+
+## How to use this source code ?
+
+1. Simple clone it in your local
+2. Install the package: `yarn` or `npm install`
+3. Run at development enviroment: `yarn dev` or `npm run dev` 
+
+
+# Happy Coding!!!
